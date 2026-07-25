@@ -1,0 +1,6 @@
+metric,value
+nodes,37700
+edges,289003
+average_path_length,3.26
+diameter,11
+network_type,small-world
